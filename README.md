@@ -1,4 +1,4 @@
 # Calculator
 
-simple java calculator endl;
+simple java calculator
 with windows
